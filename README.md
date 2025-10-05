@@ -33,8 +33,3 @@
 
 ---
 
-## 🚀 Badges
-
-![GitHub followers](https://img.shields.io/github/followers/HadirDridi03?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/HadirDridi03?style=social)  
-![GitHub repo count](https://img.shields.io/github/repos/HadirDridi03?style=social)  
