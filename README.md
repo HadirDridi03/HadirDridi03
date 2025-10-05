@@ -2,7 +2,7 @@
 
 🎓 Étudiante en **Business Intelligence** à l’ISG Bizerte  
 💻 Passionnée par la **Data Analysis**, le **Web Development**, et l’**Innovation Technologique**  
-🌱 J’apprends actuellement **Power BI**, **Python**, **SQL**, et **JavaScript**  
+🌱 J’apprends actuellement **Power BI**, **Python**, **SQL**,  **JavaScript**, **Node.js**,et **Flutter**
 🎯 Objectif : devenir **Data Analyst / Data Engineer**
 
 ---
@@ -24,11 +24,9 @@
 ---
 
 ## 🌍 Me retrouver
-📧 [hadirdridi@email.com](mailto:hadirdridi@email.com)  
-💼 [LinkedIn](https://linkedin.com/in/hadirdridi)  
-🐙 [GitHub](https://github.com/HadirDridi)
+📧 [dridihadir748@gmail.com](mailto:dridihadir748@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/hadir-dridi-3a5b64340/)  
+🐙 [GitHub](https://github.com/HadirDridi03)
 
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
