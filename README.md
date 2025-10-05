@@ -10,9 +10,9 @@
 ## 🧩 Projets récents
 | Projet | Description | Technologies |
 |--------|--------------|--------------|
-| 📊 [Analyse Bike Sharing](https://github.com/HadirDridi/BikeSharing) | Tableau de bord Excel + Power Query pour analyser l’usage des vélos | Excel, Power Query |
-| 🗃️ [Gestion des Commandes](https://github.com/HadirDridi/GestionCommandes) | Application PHP/MySQL avec AJAX | PHP, MySQL, JS |
-| 📞 [App Contacts Java](https://github.com/HadirDridi/AppContacts) | Application Swing pour gérer des contacts | Java, GSON |
+| 📊 [Analyse De Ventes Et Profit](https://github.com/HadirDridi03/Analyse_De_Ventes_Et_Profit_D-une_Entreprise.git) | Tableau de bord  | Power BI |
+| 🗃️ [Gestion des Commandes](https://github.com/HadirDridi03/App_Web_Gestion_De_Stock.git) | Application PHP/MySQL avec AJAX | PHP, MySQL, JS |
+| 📞 [App Contacts Java](https://github.com/HadirDridi03/App_Contacts_Java.git) | Application Swing pour gérer des contacts | Java, SqLite |
 
 ---
 
