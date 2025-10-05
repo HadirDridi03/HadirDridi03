@@ -27,7 +27,7 @@
 
 ## 🌍 Me retrouver
 
-📧 [dridihadir748@gmail.com](mailto:dridihadir748@gmail.com)  
+📧 [Gmail](mailto:dridihadir748@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/hadir-dridi-3a5b64340/)  
 🐙 [GitHub](https://github.com/HadirDridi03)
 
